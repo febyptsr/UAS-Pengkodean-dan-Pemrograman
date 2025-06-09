@@ -1,0 +1,7 @@
+production_id,product_id,product_name,production_date,quantity_produced,production_cost
+1,101,Beras Premium,2025-01-15,1000,12000.50
+2,101,Beras Premium,2025-02-10,800,12250.75
+3,102,Minyak Goreng,2025-01-20,500,15000.00
+4,102,Minyak Goreng,2025-02-15,600,14800.25
+5,103,Gula Pasir,2025-01-25,1200,13000.00
+6,103,Gula Pasir,2025-02-20,1000,13250.50

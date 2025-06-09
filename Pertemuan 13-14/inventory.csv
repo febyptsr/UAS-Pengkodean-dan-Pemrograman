@@ -1,0 +1,7 @@
+inventory_id,product_id,product_name,inventory_date,quantity_in_stock,warehouse_location
+1,101,Beras Premium,2025-01-31,1200,Jakarta
+2,101,Beras Premium,2025-02-28,1500,Jakarta
+3,102,Minyak Goreng,2025-01-31,700,Surabaya
+4,102,Minyak Goreng,2025-02-28,900,Surabaya
+5,103,Gula Pasir,2025-01-31,1000,Bandung
+6,103,Gula Pasir,2025-02-28,800,Bandung
